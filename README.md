@@ -1,7 +1,7 @@
 # HI
 ## HELLO!
 
-* link
+* links
 [www.google.com](www.google.com)
 
 * image
