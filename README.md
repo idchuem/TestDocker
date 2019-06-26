@@ -1,7 +1,7 @@
 #HI
 ##HELLO!
 * link
-[google.com](www.google.com)
+[www.google.com](www.google.com)
 
 * image
 ![i](http://finfra.com/f/f.png)
