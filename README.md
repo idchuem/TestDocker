@@ -9,5 +9,5 @@
 * table
 |id | name |
 |---|------|
-|1  | aaa |
-|2  | bbb |
+|1  | aaa  |
+|2  | bbb  |
